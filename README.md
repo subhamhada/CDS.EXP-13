@@ -131,7 +131,10 @@ int main() {
 
 ## Outputs :
 ### 1.
+![Screenshot 2024-09-08 172434](https://github.com/user-attachments/assets/96d811eb-e2af-4004-8c1f-f6e7f9dec201)
+
 ### 2.
+![Screenshot 2024-09-08 172456](https://github.com/user-attachments/assets/7f716c6a-55ec-4ef7-8174-83f590c7a225)
 
 ## Conclusion :
 Constructor overloading is a powerful feature in C++ that enhances code flexibility, making it easier to manage how objects are created.<br> Proper use of overloaded constructors helps improve code clarity and efficiency
